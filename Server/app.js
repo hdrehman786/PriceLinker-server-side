@@ -19,7 +19,7 @@ app.use(cors({
 
 const PORT = process.env.PORT;
 
-app.use("/get",priceRouter)
+app.use("get",priceRouter)
 
 
 app.get("/",(req,res)=>{
