@@ -68,7 +68,6 @@ Update the price of a product by its ID.
 │   └── priceRoutes.js
 ├── .env
 ├── app.js
-└── README.md
 ```
 
 ## 🛠️ Setup Instructions
